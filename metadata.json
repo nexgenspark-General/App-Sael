@@ -1,0 +1,6 @@
+{
+  "name": "DONSAEL POS",
+  "description": "Système de gestion des stocks, ventes, caisse et crédits pour DONSAEL COMMUNICATION ET MULTI-SERVICES par NexGen Spark",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
